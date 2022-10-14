@@ -1,0 +1,19 @@
+.laplantilla{
+    background-color: black;
+    border: 3px solid wheat;
+    color: thistle;
+}
+div.porteros{
+    position: relative;
+}
+body{
+    background-color: grey;
+}
+.taquilla{
+    background-color: greenyellow;
+    border: 3px solid rgb(11, 17, 1);
+    color: thistle;
+}
+body.taquilla{
+   background-color: khaki;
+}
